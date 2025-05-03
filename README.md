@@ -1,5 +1,26 @@
 # nodejs-ecommerce-app
-Node.js E-commerce App with JSON File-Based Data Storage
+<h1>Node.js E-commerce App with JSON File-Based Data Storage</h1>
+
+<h2>Frontend Features</h2>
+<ul>
+  <li>Products Shop Listing</li>
+  <li>Add to Cart</li>
+  <li>Delete Cart items</li>
+</ul>
+
+<h2>Backend Features (Admin Panel)</h2>
+<ul>
+  <li>Add Product</li>
+  <li>Edit Product</li>
+  <li>Delete Product</li>
+</ul>
+
+
+
+
+
+
+
 <h1>Product Lists</h1>
 
 
