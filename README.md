@@ -1,4 +1,3 @@
-# nodejs-ecommerce-app
 <h1>Node.js E-commerce App with JSON File-Based Data Storage</h1>
 
 <h2>Frontend Features</h2>
